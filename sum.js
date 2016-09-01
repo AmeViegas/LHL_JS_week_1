@@ -1,7 +1,7 @@
 /* requirements: create a application that will take an two
-numbers from the commandline and add them together.  Display 
-output to terminal. 
-*/
+ * numbers from the commandline and add them together.  Display 
+ * output to terminal. 
+ */
 
 // take input from command line
 var args = process.argv;
